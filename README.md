@@ -25,7 +25,6 @@ I'm a passionate web developer and software developer with a diverse skill set. 
 
 🌐 **Connect with me:**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/iamaniketgupta)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/iamaniketgupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/iamaniketgupta)
 
