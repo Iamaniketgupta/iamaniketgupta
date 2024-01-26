@@ -32,6 +32,11 @@ I'm a passionate web developer and software developer with a diverse skill set. 
 
 - Gmail: [aniketguptaInbox@gmail.com](mailto:aniketguptaInbox@gmail.com)
 
+
+📊 **Profile Stats:**
+
+![Profile views](https://komarev.com/ghpvc/?username=iamaniketgupta)
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=iamaniketgupta&show_icons=true&theme=dark&locale=en" alt="iamaniketgupta" /></td>
@@ -39,8 +44,5 @@ I'm a passionate web developer and software developer with a diverse skill set. 
   </tr>
 </table>
 
-📊 **Profile Stats:**
-
-![Profile views](https://komarev.com/ghpvc/?username=iamaniketgupta)
 
 
