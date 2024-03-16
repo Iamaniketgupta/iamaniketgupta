@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/iamaniketgupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamaniketgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/iamaniketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamaniketgupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsaniketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsaniketgupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aniketgupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketgupta_" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@iamaniketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iamaniketgupta" height="30" width="40" /></a> -->
 </p>
 <!-- <p>
