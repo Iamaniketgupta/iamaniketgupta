@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
 <h3 align="center">MERN Full Stack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaniketgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamaniketgupta" /> </p>
 
@@ -28,7 +28,7 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,mongodb,express,nodejs,js,html,css,cpp,c,git,vercel,visualstudio,vscode,replit,redux,postman,powershell,mysql,codepen,"/>
+<img src="https://skillicons.dev/icons?i=react,vite,mongodb,express,nodejs,tailwind,js,html,css,cpp,c,git,vercel,visualstudio,vscode,replit,redux,postman,powershell,mysql,codepen,"/>
 <img src="https://myreadme.vercel.app/api/embed/iamaniketgupta?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="iamaniketgupta" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaniketgupta&show_icons=true&locale=en&layout=compact" alt="iamaniketgupta" /></p>
