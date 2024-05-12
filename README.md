@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaniketgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamaniketgupta" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs, MongoDb, NextJS, TypeScript**
+- 🌱 I’m currently learning **NextJS, TypeScript**
 
 - 💬 Ask me about **JavaScript, ReactJs**
 
