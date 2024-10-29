@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaniketgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamaniketgupta" /> </p>
 
-
-- 🌱 I’m currently learning **NextJS, TypeScript**
-
-- 💬 Ask me about **JavaScript, ReactJs**
-
 - 📫 How to reach me **aniketguptainbox@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iamaniketgupta/](https://www.linkedin.com/in/iamaniketgupta/)
