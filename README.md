@@ -23,7 +23,7 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,docker,mongodb,express,nodejs,tailwind,js,html,css,cpp,c,git,vercel,visualstudio,vscode,redux,postman,powershell,"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,docker,mongodb,express,nodejs,springboot,java,cpp,c,tailwind,js,html,css,git,vercel,visualstudio,vscode,redux,postman,powershell,"/>
 <img src="https://myreadme.vercel.app/api/embed/iamaniketgupta?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="iamaniketgupta" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaniketgupta&show_icons=true&locale=en&layout=compact" alt="iamaniketgupta" /></p>
