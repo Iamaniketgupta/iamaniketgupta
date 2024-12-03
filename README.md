@@ -13,7 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iamaniketgupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamaniketgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/iamaniketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamaniketgupta" height="30" width="40" /></a>
+<a href="https://aniketgupta.vercel.app" target="_blank">
+  <img src="https://duongvu214.github.io/assets/img/profileUser.png" alt="Portfolio" width="50" height="50" />
+</a>
 <a href="https://www.leetcode.com/aniketgupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketgupta_" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@iamaniketgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@iamaniketgupta" height="30" width="40" /></a> -->
 </p>
@@ -24,9 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,mongodb,express,nodejs,spring,java,cpp,c,tailwind,js,html,css,git,docker,vercel,visualstudio,vscode,redux,postman,powershell" />
-<img src="https://myreadme.vercel.app/api/embed/iamaniketgupta?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="iamaniketgupta" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaniketgupta&show_icons=true&locale=en&layout=compact" alt="iamaniketgupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaniketgupta&show_icons=true&locale=en" alt="iamaniketgupta" /></p>
 
