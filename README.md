@@ -7,6 +7,7 @@
 - 📫 How to reach me **aniketguptainbox@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iamaniketgupta/](https://www.linkedin.com/in/iamaniketgupta/)
+- 📄 Visit my portfolio [https://aniketgupta.vercel.app](https://aniketgupta.vercel.app/)
 
 - ⚡ Fun fact **I code for Fun and Live Life Professionally!**
 
