@@ -26,7 +26,7 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,mongodb,express,nodejs,spring,java,cpp,c,tailwind,js,html,css,git,docker,vercel,visualstudio,vscode,redux,postman,powershell" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,mongodb,express,nodejs,java,cpp,c,tailwind,js,html,css,git,docker,vercel,visualstudio,vscode,redux,postman,powershell" />
 
 
 
