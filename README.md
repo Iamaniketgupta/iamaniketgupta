@@ -26,6 +26,6 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,js,ts,html,css,redux,styledcomponents,nodejs,express,nestjs,fastapi,django,flask,java,spring,cpp,c,python,dotnet,ruby,go,mongodb,mysql,postgres,prisma,graphql,sqlite,redis,dynamodb,docker,kubernetes,aws,vercel,netlify,nginx,git,github,gitlab,githubactions,postman,figma,vscode,visualstudio,linux,bash,powershell,webpack,vite,jest,selenium,firebase,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,js,ts,html,css,redux,styledcomponents,nodejs,express,cpp,c,python,mongodb,mysql,postgres,prisma,graphql,sqlite,redis,dynamodb,docker,kubernetes,aws,vercel,netlify,nginx,git,github,gitlab,githubactions,postman,figma,vscode,visualstudio,linux,bash,powershell,webpack,vite,jest,selenium,firebase,androidstudio" />
 
 
